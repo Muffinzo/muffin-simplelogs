@@ -8,8 +8,13 @@ ______________________
 ⛔ ESX server logs
 ______________________
 Done - ✅ Join
+
 Done - ✅ Leave
+
 Done - ✅ Script start
+
 WIP  - 🟧 Death with qb-ambulancejob
+
 WIP  - 🟧 Using muffin_NPCmechanic (configurable) 
+
 ______________________
