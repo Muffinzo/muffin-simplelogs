@@ -15,7 +15,7 @@ AddEventHandler("playerDropped", function(reason)
 end)
 
 RegisterNetEvent("muffin_logs:logJoin")
-if config.debug == True then
+if config.debug == true then
     print(" ✅ ", "Join log accepted")
 end
 AddEventHandler("muffin_logs:logJoin", function(playerIden)
