@@ -1,3 +1,5 @@
+# DOWNLOAD LATEST [RELEASE](https://github.com/Muffinzo/muffin-simplelogs/releases)
+
 # Phoenix scripts
 https://discord.gg/KhgGD32nc2
 
