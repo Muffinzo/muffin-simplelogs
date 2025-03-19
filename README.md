@@ -15,7 +15,9 @@ Done - ✅ Leave
 
 Done - ✅ Script start
 
-WIP  - 🟧 Death with qb-ambulancejob
+Done - ✅ Death with qb-ambulancejob
+
+Done - ✅ Taxi calling using muffin_NPCTaxi
 
 WIP  - 🟧 Using muffin_NPCmechanic (configurable) 
 
